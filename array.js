@@ -7,3 +7,5 @@ console.log("Milk:", groceryList[0]);
 console.log("Butter:", groceryList[1]);
 console.log("Pasta:", groceryList[2]);
 
+console.log("Prices:" , prices[2]);
+console.log("Prices:", prices[1]);
